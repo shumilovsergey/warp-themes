@@ -1,2 +1,6 @@
 # warp-themes
-warp them
+
+warp them dir:
+```
+~/.warp/themes
+```
