@@ -1,0 +1,29 @@
+---
+
+accent: '#70a8fa'
+background: '#18181a'
+foreground: '#dcd7cf'
+details: 'darker'
+
+terminal_colors:
+  normal:
+    black: '#0d0d0d'
+    red: '#f16278'
+    green: '#80c65d'
+    yellow: '#fcc65d'
+    blue: '#70a8fa'
+    magenta: '#70a8fa'
+    cyan: '#70a8fa'
+    white: '#f7f7f7'
+  bright:
+    black: '#42546b'
+    red: '#f16278'
+    green: '#80c65d'
+    yellow: '#fcc65d'
+    blue: '#70a8fa'
+    magenta: '#70a8fa'
+    cyan: '#70a8fa'
+    white: '#ffffff'
+
+
+name: dark-json
